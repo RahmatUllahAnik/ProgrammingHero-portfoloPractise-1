@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Baloo Paaji 2', cursive;
+
+}
+
+p {
+    color: rgb(119, 113, 113);
+}
+
+section {
+    height: 500px;
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+
+
+}
+
+h1 {
+    color: #EC4F8F;
+
+}
+
+.upper-section {
+    background-image: url(/images/header-bg.png);
+}
+
+.half-width {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+
+}
+
+#first-half-width {
+    padding-top: 10%;
+}
+
+a {
+    text-decoration: none;
+    background-color: #EC4F8F;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 7px;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: small;
+    border: none;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+#biography-half-width {
+    padding-top: 8%;
+
+}
+
+.biography-section {
+    background-image: url(/images/biography-bg.png);
+}
+
+.latest-work-section {
+    margin: 5%;
+    background-image: url(/images/latest-work-bg.png);
+
+}
+
+.latest-work-images {
+    width: 30%;
+    margin-left: 1%;
+    padding-left: 2%;
+    float: left;
+}
+
+.latest-work-images img {
+    width: 80%;
+}
+
+footer {
+    text-align: center;
+    background-image: url(/images/footer-bg.png);
+
+
+}
+
+.footer-one {
+    margin: 5% 20%;
+}
+
+.footer-two {
+
+    background-color: #EC4F8F;
+    color: white;
+    height: 100px;
+    margin: 0% 25% 20%;
+
+    padding-top: 1%;
+    padding-bottom: 2%;
+    border-radius: 11px;
+
+}

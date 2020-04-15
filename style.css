@@ -23,7 +23,7 @@ h1 {
 }
 
 .upper-section {
-    background-image: url(/images/header-bg.png);
+    background-image: url(images/header-bg.png);
 }
 
 .half-width {
@@ -65,12 +65,12 @@ img {
 }
 
 .biography-section {
-    background-image: url(/images/biography-bg.png);
+    background-image: url(images/biography-bg.png);
 }
 
 .latest-work-section {
     margin: 5%;
-    background-image: url(/images/latest-work-bg.png);
+    background-image: url(images/latest-work-bg.png);
 
 }
 
@@ -87,7 +87,7 @@ img {
 
 footer {
     text-align: center;
-    background-image: url(/images/footer-bg.png);
+    background-image: url(images/footer-bg.png);
 
 
 }
